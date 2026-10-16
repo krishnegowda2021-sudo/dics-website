@@ -1,0 +1,130 @@
+{
+  "name": "Digital Instruments & Control Systems",
+  "short": "DICS",
+  "tagline": "Industrial automation products & engineering services since 1996",
+  "founded": 1996,
+  "phones": [
+    { "label": "+91-80-23235465", "tel": "+918023235465" },
+    { "label": "+91-80-23232773", "tel": "+918023232773" }
+  ],
+  "email": "bangalore@dicsglobal.com",
+  "careersEmails": ["bangalore@dicsglobal.com", "dicsblr@gmail.com"],
+  "address": "B-261, 6th Main, 2nd Stage, Peenya Industrial Estate, Bangalore, Karnataka 560058",
+  "mapsLink": "https://maps.google.com/?q=Digital+Instruments+%26+Control+Systems,+B-261,+6th+Main+Rd,+Peenya,+Bengaluru+560058",
+  "mapsEmbed": "https://www.google.com/maps?q=Digital+Instruments+%26+Control+Systems+Peenya+Bengaluru&output=embed",
+  "social": [
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/company/digital-instruments-&-control-systems" },
+    { "name": "Facebook", "url": "https://www.facebook.com/dicsglobal" },
+    { "name": "Instagram", "url": "https://www.instagram.com/dics_global/" },
+    { "name": "YouTube", "url": "https://www.youtube.com/@DICS_GLOBAL" },
+    { "name": "X", "url": "https://x.com/dicsglobal" }
+  ],
+  "stats": [
+    { "value": "1996", "label": "Established in Bangalore" },
+    { "value": "858", "label": "Products in our online catalogue" },
+    { "value": "8", "label": "Global automation brand associations" },
+    { "value": "11", "label": "Office locations listed across India" }
+  ],
+  "requirements": [
+    "PLC / HMI / Factory Automation",
+    "VFD / AC Drives / Servo Drives",
+    "Control Panels / MCC",
+    "Sensors / Temperature Controllers",
+    "Temperature Measurement & Control",
+    "Robotics / System Integration",
+    "Industrial Products / Spare Parts",
+    "Service / Repair / Technical Support",
+    "Other"
+  ],
+  "categories": [
+    { "slug": "automation-systems", "name": "Automation Systems", "blurb": "Programmable Logic Controllers, along with easy-to-use Support Software, are available to flexibly handle applications from small-scale equipment to entire production lines with Programmable Logic Controllers such as those in the CJ1, CS1 and other series.",
+      "children": [
+        { "slug": "plc", "name": "PLC", "blurb": "PLC Automation Systems include Programmable Controllers that support machine control, and Network/Software products to support easy information exchange with host systems." },
+        { "slug": "safety-components", "name": "Safety Components", "blurb": "Safety Components are required for safety countermeasures in equipment and facilities. They are used for shut-out detection of mechanical guards, checking intrusion into hazardous areas, and building safety circuits." }
+      ] },
+    { "slug": "ac-drives", "name": "AC Drives", "blurb": "We deliver high performance inverters that offer automatically controlled motor of AC Drive / variable frequency drive (VFD) applications." },
+    { "slug": "busbar", "name": "Busbar", "blurb": "Basic system – connection and mounting platform for all components." },
+    { "slug": "control-components", "name": "Control components", "blurb": "Control components for industrial panels and machines." },
+    { "slug": "instrumentation", "name": "Instrumentation", "blurb": "Gas measurement and process instrumentation with easy-to-see LCD, RS-232C communication (option), compact panel-mount design, automatic calibration (option), concentration alarms and range switching." },
+    { "slug": "motion-controller", "name": "Motion Controller", "blurb": "Motion controller plus PC – in one box. NY-series IPC Programmable Multi-Axis Controller." },
+    { "slug": "robotics", "name": "Robotics", "blurb": "Human and machine in perfect harmony. Designed to work with both humans and machines, the latest in a long line of innovations in automation technology for industrial applications." },
+    { "slug": "sensors-switches", "name": "Sensors & Switches", "blurb": "Advanced inspection in a compact housing. Expanded performance and functionality." },
+    { "slug": "ups-servo-stabilizers", "name": "UPS & Servo Stabilizers", "blurb": "Fuji Electric supplies products that incorporate power electronics technology, to improve the efficiency and stability of energy, such as UPS and PCS." },
+    { "slug": "patlite", "name": "Patlite", "blurb": "PATLITE offers a range of visual and audible signaling equipment, along with simple IoT devices, designed for various industries and applications." },
+    { "slug": "switches", "name": "Idec", "blurb": "IDEC provides customers with solutions for manufacturing sites by offering products and services for each industry. We utilize our global network to help our customers expand their production operations efficiently." }
+  ],
+  "services": [
+    { "slug": "plc-services", "name": "PLC Services", "short": "PLC programming, retrofits and troubleshooting for machines and process lines.", "card": "PLC & Controllers", "cardText": "Control logic for machines and process lines — new programs, migrations from obsolete controllers and I/O expansion.",
+      "body": ["DICS engineers design, program and commission PLC-based control architectures for individual machines and complete process lines.", "Work covers new application programming, migration of obsolete controllers, I/O expansion, communication networking and fault diagnosis on running systems."],
+      "challenges": ["Ageing or unsupported controllers", "Unplanned downtime caused by logic faults", "Integrating new equipment into existing lines"],
+      "related": ["automation-systems/plc", "automation-systems/safety-components", "automation-systems"] },
+    { "slug": "hmi-services", "name": "HMI Services", "short": "Operator panel design, screen development and HMI replacement.", "card": "HMI & SCADA", "cardText": "Operator screens, alarms and supervisory visibility so teams can see and act on process conditions.",
+      "body": ["DICS develops operator interfaces that give your team clear visibility of machine and process conditions.", "Work covers screen design and development, alarm handling, recipe and data screens, and replacement of discontinued HMI panels."],
+      "challenges": ["Discontinued or failing operator panels", "Hard-to-read screens and unclear alarms", "Need for supervisory visibility across machines"],
+      "related": ["automation-systems", "control-components"] },
+    { "slug": "vfd-services", "name": "VFD & AC Drive Services", "short": "Selection, parameterisation, commissioning and repair of variable frequency drives.", "card": "VFD & AC Drives", "cardText": "Motor speed control, soft starting and drive commissioning to reduce mechanical stress and support energy-efficient operation.",
+      "body": ["DICS supports variable frequency drive applications from selection through commissioning and service.", "Work covers drive selection, parameter setting, motor speed control, soft starting, commissioning and repair."],
+      "challenges": ["Mechanical stress from direct-on-line starting", "High energy use on variable-load motors", "Drive faults and unplanned stoppages"],
+      "related": ["ac-drives"] },
+    { "slug": "servo-drive-services", "name": "Servo AC/DC Drive Services", "short": "Servo system tuning, commissioning and service for precise motion.", "card": "Motion Control", "cardText": "Servo, stepper and multi-axis systems for positioning, indexing and synchronised motion.",
+      "body": ["DICS supports servo and motion applications that need precise positioning and repeatable motion.", "Work covers servo system tuning, commissioning, multi-axis set-up and service."],
+      "challenges": ["Positioning accuracy and repeatability", "Tuning servo loops for new mechanics", "Servo drive and motor faults"],
+      "related": ["motion-controller"] },
+    { "slug": "factory-automation", "name": "Factory Automation & System Integration", "short": "Turnkey automation: electrical design, panels, software and commissioning.", "card": "System Integration", "cardText": "Electrical design, panel fabrication, software and commissioning delivered as one project.",
+      "body": ["DICS delivers end-to-end project execution: electrical design, panel fabrication, software development and field commissioning.", "Specification, programming and commissioning stay in one place, backed by lifecycle support."],
+      "challenges": ["Coordinating several vendors on one project", "Retrofits of ageing production lines", "Need for a single point of responsibility"],
+      "related": ["automation-systems", "control-components", "busbar"] },
+    { "slug": "robotics", "name": "Robotics", "short": "Robot application support for handling, assembly and inspection.", "card": "Robotics & Vision", "cardText": "Robot cells and machine vision for handling, assembly and inspection tasks.",
+      "body": ["DICS supports robot applications for handling, assembly and inspection.", "Work covers robot cell integration and machine vision for inspection tasks."],
+      "challenges": ["Repetitive manual handling and assembly", "Inconsistent manual inspection", "Integrating robots with existing lines"],
+      "related": ["robotics", "sensors-switches"] },
+    { "slug": "smps-services", "name": "SMPS Services", "short": "Diagnosis and service of switch-mode power supplies.", "card": "SMPS", "cardText": "Diagnosis and service of switch-mode power supplies.",
+      "body": ["DICS diagnoses and services switch-mode power supplies using the testing stations at our Bangalore facility."],
+      "challenges": ["Failed or unstable DC supplies", "Obsolete power supply units", "Need for fast diagnosis"],
+      "related": ["ups-servo-stabilizers", "control-components"] },
+    { "slug": "operator-panel-services", "name": "Operator Panel Services", "short": "Repair, replacement and upgrade of operator panels and interfaces.", "card": "Operator Panels", "cardText": "Repair, replacement and upgrade of operator panels and interfaces.",
+      "body": ["DICS repairs, replaces and upgrades operator panels and interfaces for machines and process lines."],
+      "challenges": ["Damaged screens and keypads", "Discontinued panel models", "Upgrading to current HMI technology"],
+      "related": ["automation-systems", "control-components"] }
+  ],
+  "brands": [
+    { "slug": "omron", "name": "OMRON", "country": "Japan" },
+    { "slug": "fuji-electric", "name": "Fuji Electric", "country": "Japan" },
+    { "slug": "pro-face", "name": "Pro-face", "country": "Japan" },
+    { "slug": "autonics", "name": "Autonics", "country": "South Korea" },
+    { "slug": "ckd", "name": "CKD", "country": "Japan" },
+    { "slug": "idec", "name": "IDEC", "country": "Japan" },
+    { "slug": "wohner", "name": "Wöhner", "country": "Germany" },
+    { "slug": "patlite", "name": "PATLITE", "country": "Japan" }
+  ],
+  "industries": [
+    { "id": "automobile", "name": "Automobile", "text": "Body shop, assembly and test lines that depend on PLCs, servo motion, robotics and reliable sensing.", "img": "ind-auto.jpg" },
+    { "id": "food-pharma", "name": "Food & Pharma", "text": "Hygienic processing and packaging lines requiring accurate temperature control, vision inspection and traceability.", "img": "ind-pharma.jpg" },
+    { "id": "printing-packaging", "name": "Printing & Packaging", "text": "High-speed machines needing synchronised motion, registration sensing and dependable drives.", "img": "ind-food.jpg" },
+    { "id": "power-solar", "name": "Power & Solar", "text": "Instrumentation, power distribution and monitoring for generation and utility installations.", "img": "ind-water.jpg" },
+    { "id": "material-handling", "name": "Material Handling", "text": "Conveyors and logistics systems using VFDs, encoders, proximity sensors and safety components.", "img": "hero-plant.jpg" },
+    { "id": "hoist-crane", "name": "Hoist & Crane", "text": "Drive control, limit switches and signalling for safe lifting operations." },
+    { "id": "textile", "name": "Textile", "text": "Speed, tension and temperature control across spinning, weaving and processing machines." },
+    { "id": "steel", "name": "Steel", "text": "Rugged instrumentation, drives and controls for demanding plant environments." },
+    { "id": "semiconductor", "name": "Semiconductor", "text": "Precision motion, displacement measurement and clean signalling for sensitive processes." },
+    { "id": "elevator", "name": "Elevator", "text": "Drives, controllers and safety devices for vertical transportation systems." }
+  ],
+  "why": [
+    { "title": "Established since 1996", "text": "Three decades supplying and supporting automation in Indian industry." },
+    { "title": "Own test facility", "text": "Testing stations at our Bangalore head office help diagnose product-related issues." },
+    { "title": "Recognised manufacturers", "text": "Products from OMRON, Fuji Electric, Pro-face, Autonics, CKD, IDEC, Wöhner and PATLITE." },
+    { "title": "Engineering support", "text": "Product service support and application engineering from offices across India." }
+  ],
+  "offices": [
+    { "city": "Chennai", "address": "A4/3, Krishna Tower, III Phase, Thiru-vi-ka Industrial Estate, Guindy, Chennai, Tamil Nadu 600032", "phone": "+91-44-22501141 / 22501142", "tel": "+914422501141", "email": "chennai@dicsglobal.com" },
+    { "city": "Coimbatore", "address": "No. 1054, Ground Floor, Gowtham Centre Annexe, Near Anna Statue, Avinashi Road, Coimbatore, Tamil Nadu 641018", "phone": "+91-422-2236446", "tel": "+914222236446", "email": "coimbatore@dicsglobal.com" },
+    { "city": "Lucknow", "address": "Shop No. UGF-4, Parijat Palace, Near Ishwarpuri Colony, Sector-12, Indira Nagar, Lucknow, Uttar Pradesh 226016", "phone": "+91-522-4624154", "tel": "+915224624154", "email": "lucknow@dicsglobal.com" },
+    { "city": "Belagavi", "address": "Plot No. 77, 1st Floor, 2nd Stage, Rani Chennamma Nagar, Belagavi, Karnataka 590006", "phone": "+91-95358 74333", "tel": "+919535874333", "email": "belagavi@dicsglobal.com" },
+    { "city": "Mysore", "address": "1065/11, F-49/1, Sewage Farm Road, Vidyaranyapuram, 1st Main Road, Mysore, Karnataka 570008", "phone": "+91-90081 01101", "tel": "+919008101101", "email": "mysore@dicsglobal.com" },
+    { "city": "Penukonda", "address": "D. No. 1-99/9D, GIC Colony, Sri Sathya Sai District, Penukonda, Andhra Pradesh 515110", "phone": "+91-81973 54053", "tel": "+918197354053", "email": "rahim@dicsglobal.com" },
+    { "city": "Hyderabad", "note": "Listed on dicsglobal.com (Sansree Automation)", "address": "Plot No. 16/1/25, 1st Floor, Road No. 7, IDA Nacharam, Hyderabad, Telangana 500076", "phone": "+91-40-27179400", "tel": "+914027179400", "email": "hyderabad@sansree.com" },
+    { "city": "Navi Mumbai", "note": "Listed on dicsglobal.com (Sansree Automation)", "address": "101, Mayuresh Chambers, Plot No. 60, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614", "phone": "+91-22-27562007", "tel": "+912227562007", "email": "mumbai@sansree.com" },
+    { "city": "Pune", "note": "Listed on dicsglobal.com (Sansree Automation)", "address": "Plot No. 165, 1/14, 3rd Floor, T Block, MIDC Chowk, Bhosari, Pune, Maharashtra 411026", "phone": "+91-20-29982001", "tel": "+912029982001", "email": "pune@sansree.com" },
+    { "city": "Visakhapatnam", "note": "Listed on dicsglobal.com (Sansree Automation)", "address": "D. No. 27-1-77, Ground Floor, Plot No. 16, Vidyanagar, Sri Nagar, Gajuwaka, Visakhapatnam, Andhra Pradesh 530026", "phone": "+91-99897 44811", "tel": "+919989744811", "email": "vizag@sansree.com" }
+  ]
+}

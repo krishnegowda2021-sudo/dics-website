@@ -1,0 +1,16 @@
+{
+  "name": "dics-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Digital Instruments & Control Systems (DICS) website — static pages + Cloudflare Worker for enquiry forms",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check-links.mjs",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
